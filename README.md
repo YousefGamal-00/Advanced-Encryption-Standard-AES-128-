@@ -1,5 +1,3 @@
-# Advanced-Encryption-Standard-AES-128-
-
 # AES Encryption Core: RTL + UVM Verification
 
 A Verilog/SystemVerilog implementation of the AES encryption datapath (AES-128 / 192 / 256) wrapped in a simple valid handshake, together with a UVM testbench that checks it against a Python reference model using constrained-random stimulus and functional coverage.
