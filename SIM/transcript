@@ -1,0 +1,24 @@
+# QuestaSim-64 vcover 2021.1 Coverage Utility 2021.01 Jan 19 2021
+# Start time: 22:48:29 on Oct 05,2026
+# vcover report AES_merge.ucdb -cvg -details -output FC_cov_rprt.txt 
+# ** Note: (vcover-17388) No matching coverage data found in file 'AES_merge.ucdb'.
+# End time: 22:48:29 on Oct 05,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vcover 2021.1 Coverage Utility 2021.01 Jan 19 2021
+# Start time: 22:48:39 on Oct 05,2026
+# vcover report AES_merge.ucdb -cvg -details -output FC_cov_rprt.txt 
+# ** Note: (vcover-17388) No matching coverage data found in file 'AES_merge.ucdb'.
+# End time: 22:48:39 on Oct 05,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vcover 2021.1 Coverage Utility 2021.01 Jan 19 2021
+# Start time: 22:48:50 on Oct 05,2026
+# vcover report AES_merge.ucdb -details -annotate -all -output CC_SVA_cov_rprt.txt 
+# End time: 22:48:54 on Oct 05,2026, Elapsed time: 0:00:04
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vcover 2021.1 Coverage Utility 2021.01 Jan 19 2021
+# Start time: 22:49:02 on Oct 05,2026
+# vcover report AES_merge.ucdb -du=AES_Encrypt_top -recursive -assert -directive -cvg -codeAll -output Summary_Report.txt 
+# ** Note: (vcover-19063) Please note that '-recursive' option's functionality is changed. For more information, please refer 
+# to the reference manual.
+# End time: 22:49:02 on Oct 05,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0

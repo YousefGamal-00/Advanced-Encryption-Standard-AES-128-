@@ -1,0 +1,15 @@
+Recursive Coverage Report Summary Data by DU
+
+=================================================================================
+=== Design Unit: work.AES_Encrypt_top
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                       799       795         4    99.49%
+    Conditions                       1         1         0   100.00%
+    Statements                     832       831         1    99.87%
+    Toggles                      12044     11596       448    96.28%
+
+
+Total Coverage By Design Unit (filtered view): 98.91%
+
